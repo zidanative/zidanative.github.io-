@@ -1,0 +1,101 @@
+.btn-primary {
+    background: #006666;
+    border: 0px;
+    padding: 20px 50px 20px 50px;
+    font-size: 16px;
+}
+
+.btn-primary:hover::after {
+    width: 100%;
+}
+
+.btn-secondary {
+    background: none;
+    border: 1px gray;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;
+}
+
+.btn-secondary:hover {
+    background: none;
+    border: 0px solid #006666;
+}
+
+.herobwa h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+.herobwa p {
+    font-family: 'Verdana', sans-serif;
+    font-weight: medium;
+    color: white;
+}
+
+.judul {
+    text-align: center;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar,
+navbar-expand-lg {
+    background-color: #006666;
+}
+
+a,
+navbar-brand {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-style: medium;
+    font-size: 16px;
+    color: white;
+}
+
+.card-text {
+    color: black;
+}
+
+.footer {
+    background-color: #006666;
+}
+
+.copyright {
+    background-color: #006666;
+}
+
+.text-uppercase {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+
+.lead {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 3px solid white;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #006666;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
