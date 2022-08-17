@@ -55,7 +55,7 @@ navbar-brand {
     color: white;
 }
 
-.card-text {
+.card-body .card-title .card-text {
     color: black;
 }
 
